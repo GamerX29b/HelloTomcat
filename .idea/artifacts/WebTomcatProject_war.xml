@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WebTomcatProject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="WebTomcatProject-0.1.0.war">
+      <element id="artifact" artifact-name="WebTomcatProject:war exploded" />
+    </root>
+  </artifact>
+</component>
