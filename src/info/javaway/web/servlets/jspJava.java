@@ -7,7 +7,7 @@
         import java.util.Date;
         import java.util.Random;
 
-public class jsptest extends HttpServlet{
+public class jspJava extends HttpServlet{
     private static int count = 0;
     private static int size = 0;
     private static Random rand = new Random();
